@@ -2,7 +2,10 @@
 
 1) Download binaries from http://www.swi-prolog.org/Download.html and install it
 
-2) Download editor (kind of prolog IDE) and install ithttp://arbeitsplattform.bildung.hessen.de/fach/informatik/swiprolog/setup.zip 
+2) Download editor (kind of prolog IDE) and install it
+http://arbeitsplattform.bildung.hessen.de/fach/informatik/swiprolog/setup.zip 
+
+
 
 **How to execute:**
 
